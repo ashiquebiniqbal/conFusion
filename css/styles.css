@@ -18,7 +18,7 @@
 .jumbotron {
     padding:70px 30px 70px 30px;
     margin:0px auto;
-    background: #9575CD ;
+    background: #8f75cd ;
     color:floralwhite;
 }
 
@@ -34,4 +34,18 @@ body{
 
 .navbar-dark {
      background-color: #512DA8;
+}
+
+.row-headers{
+    margin:10px auto;
+    padding:0px 10px 0px 10px;
+    background-color:#350d92;
+    color:#317788;
+}
+
+.tab-content {
+    border-left: 1px solid #ddd;
+    border-right: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+    padding: 10px;
 }
