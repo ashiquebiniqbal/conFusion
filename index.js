@@ -28,7 +28,17 @@
     <script>
        $('loginModal').modal('show');
     </script> --&gt;
+    <script>
+       $('loginModal').modal('show');
 
+       $.click(function(){
+                    $('#form').modal('show');
+                });
+
+        $.click(function(){
+                    $('#loginModal').modal('show');
+                });
+    </script>
     
 </body>
 </html> 
