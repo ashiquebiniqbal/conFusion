@@ -1,2 +1,2 @@
 # conFusion
-A resposive resturant website
+A responsive resturant baased website
